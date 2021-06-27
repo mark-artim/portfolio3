@@ -1,40 +1,39 @@
-# portfolio3
+# Updated Portfolio (V3)
 My portfolio done with React. Yes - that's fancy.
 
-## Description
-This application allows you to search employees from a theoretical company called Jack ERP. You are able to search users by name and the list will filter to matching entries. This application was done using React and uses the randomuser.me API to provide a list of 50 random users.
+## Description 
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This single page React website was designed using "mobile first" design and was done in modular components. It features a modern, polished look and feel and is responsive for any screensize. It contains 5 pices of work at this point including one group project, two bootcamp projects and my personal website. There are social media links at the bottom and a link to my PDF resume.  
 
-Sample of the Tech Blog application:<br><br>
-![Employee Directory Sample Page](AppScreenshot.jpg)
+## Table of Contents (Optional)
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Questions](#questions)
+This README is very not long but here is a table of contents nonetheless.
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+
 
 ## Installation
-This application runs on React. After cloning the repository copy the SRC folder to your new React filesystem SRC folder. <br>
-```npm init react-app my-app```<br>
-```npm i```<br>
-```npm start or npm run watch```
 
-Github repsitory [EmployeeDirectory](https://github.com/mark-artim/EmployeeDirectory)
+The site is a single page html document with css and images so installation is straightforward: (1) push code to Github (2) Navigate to live link and make sure the site displays correctly.
 
-## Usage
+The site can be reached at [Mark's Porfolio](https://mark-artim.github.io/portfolio2/) 
 
-This application is straightforward. From the homepage you are able to search for users in an extremely responsive single pag app.
+## Usage 
 
-<br>
+The current website looks like this:
 
-## The live site can be reached by clicking this link: [EmployeeDirectory](https://mark-artim.github.io/EmployeeDirectory/)
+Here is the mobile look and feel:
+![Live Site Screenshot](/assets/images/ScreenshotMobile.jpg)
 
 
 ## Credits
-Mim Armand was instrumental in educating me on the technology required for this application as well as Chris Martinez for helping me debug issues.
+
+Kevin Powell's YouTube video's were instrumental in the style of this website. I handcoded all aspects but his videos taught me many features taht would have taken me a great deal of time to figure out on my own.
+https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw
+
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -52,5 +51,3 @@ If you have any questions please contact me at: <br><br>
 or visit me at<br><br>
 [**Github**](https://github.com/mark-artim)
         
-
-
